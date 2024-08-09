@@ -29,8 +29,8 @@ Your goal is to meet at least 75% of these requirements to complete the assignme
 **Functionality:**
 
 - [x] When a user first loads the app, they should see 3 gifs from today's [Giphy API "Trending Gifs" endpoint](https://developers.giphy.com/docs/api/endpoint#trending).
-- [ ] The user can search for gifs using the [Giphy API search endpoint](https://developers.giphy.com/docs/api/endpoint#search).
-- [ ] The app updates the gifs on the page, displaying 3 at a time, **every time the user clicks the Find Gifs button**.
+- [x] The user can search for gifs using the [Giphy API search endpoint](https://developers.giphy.com/docs/api/endpoint#search).
+- [x] The app updates the gifs on the page, displaying 3 at a time, **every time the user clicks the Find Gifs button**.
 
 **React Fundamentals**
 
@@ -44,8 +44,8 @@ Your goal is to meet at least 75% of these requirements to complete the assignme
 
 **Miscellaneous**
 
-- [ ] The `config.js` file is listed in the `.gitignore` and is NOT included in the final repository.
-- [ ] At no point did you ever use any vanilla DOM JS methods (e.g. `document.querySelector` or `document.createElement`)
+- [x] The `config.js` file is listed in the `.gitignore` and is NOT included in the final repository.
+- [x] At no point did you ever use any vanilla DOM JS methods (e.g. `document.querySelector` or `document.createElement`)
 - [ ] Bonus: Display the gifs as a grid using flexbox or grid!
 
 ## Set Up & Starter Code
